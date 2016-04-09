@@ -136,5 +136,4 @@ def test_run(ip=None, port=None):
 
 if __name__ == '__main__':
     test_url_run(reset_file=False)
-    # run("58.20.251.44", "8080")
     # test_run("127.0.0.1", "8087")
